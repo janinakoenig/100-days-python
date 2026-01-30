@@ -10,7 +10,7 @@ Today’s goal was to build a Palindrome Checker
 
 You will be asked to enter one word.
 
-The program tells you whether it is a palindrome or not
+The program tells you whether it is a palindrome or not.
 
 ---
 
