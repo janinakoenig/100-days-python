@@ -16,4 +16,4 @@ Each day focuses on a small project.
 
 ## 🗂️ Structure
 
-Each folder corresponds to one day:
+Each folder corresponds to one day
